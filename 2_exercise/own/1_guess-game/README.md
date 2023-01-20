@@ -8,3 +8,5 @@
   - 去掉回车 和 换行符
 - strconv 
   - 解析字符串得到数字
+- bufio.NewReader(os.Stdin)
+  - 得到输入数据
